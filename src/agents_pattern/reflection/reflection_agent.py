@@ -130,7 +130,7 @@ class ReflectionAgent:
         return generation
     
 agent = ReflectionAgent()
-user_msg = "write a poem on Hope and Hardwork"
+user_msg = "write a poem on Chennai Super Kings IPL team in 4 lines"
 
 response = agent.run(
     user_msg=user_msg,
