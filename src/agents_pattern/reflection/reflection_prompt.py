@@ -11,3 +11,5 @@ You are tasked with generating critique and recommendations to the user's genera
 If the user content has something wrong or something to be improved, output a list of recommendations
 and critiques. If the user content is ok and there's nothing to change, output this: <OK>
 """
+
+print("Reflection system prompts initialized.")
